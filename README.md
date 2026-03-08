@@ -11,9 +11,9 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
-  <br><br> <img src="https://img.shields.io/badge/Learning-CNN-blue?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Studying-Transformers-yellow?style=for-the-badge&logo=bookstack&logoColor=black"/>
-</div>
+          <br><br> <img src="https://img.shields.io/badge/Studying-CNN-blue?style=for-the-badge&logo=target&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Studying-Transformers-yellow?style=for-the-badge&logo=bookstack&logoColor=black"/>
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/About-Me-2704dc663e3e80c7bdbff320b4133ec0?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/About-Me-2704dc663e3e80c7bdbff320b4133ec0?source=copy_link"> </a>
