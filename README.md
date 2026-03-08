@@ -3,8 +3,9 @@
     </div>
     <div style="text-align: left;">
       <p align="center">
-        어제보다 조금 더 깊은 모델을, 오늘보다 조금 더 명확한 시각화를
-      </p>
+  어제보다 조금 더 <b><span style="color: #3498db;">깊은 모델</span></b>을, 
+  오늘보다 조금 더 <b><span style="color: #e74c3c;">명확한 시각화</span></b>를
+</p>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
