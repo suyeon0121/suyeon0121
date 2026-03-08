@@ -1,8 +1,5 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4040,100:257bcb&height=180&text=Suyeon's%20Github&animation=scaleIn&fontColor=000000&fontSize=50" />
-    </div>
-    <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4040,100:257bcb&height=180&text=Suyeon's%20Github&animation=scaleIn&fontColor=000000&fontSize=50" />
     
     <h3>"어제보다 조금 더 깊은 모델을, 오늘보다 조금 더 명확한 시각화를 꿈꿉니다 📈"</h3>
 </div>
@@ -39,6 +36,3 @@
     </div>
 </div>
 <br>
-    </div>
-    
-    
