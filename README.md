@@ -9,6 +9,8 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Learning-CNN-blue?style=flat-square&logo=target"/>
+          <img src="https://img.shields.io/badge/Studying-Transformers-yellow?style=flat-square&logo=bookstack"/>
           <br/></div>
     </div>
     <div style="text-align: left;">
