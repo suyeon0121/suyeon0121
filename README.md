@@ -2,6 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4040,100:257bcb&height=180&text=Suyeon's%20Github&animation=scaleIn&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;">
+      <p align="center">
+        어제보다 조금 더 깊은 모델을, 오늘보다 조금 더 명확한 시각화를
+      </p>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
