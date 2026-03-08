@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4040,100:257bcb&height=180&text=Suyeon's%20Github&animation=scaleIn&fontColor=000000&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4040,100:257bcb&height=250&text=Suyeon's%20Github&animation=scaleIn&fontColor=000000&fontSize=50" />
 </div>
 
-<p align="center">
+<br> <p align="center">
   🌙 어제보다 조금 더 <b><span style="color: #3498db;">깊은 모델</span></b>을, 
   ☀️ 오늘보다 조금 더 <b><span style="color: #e74c3c;">명확한 시각화</span></b>를
 </p>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+<br> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
+
+<br>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 
