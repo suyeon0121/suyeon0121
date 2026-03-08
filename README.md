@@ -11,7 +11,7 @@
           <img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white"/>
           <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=Hugging-Face&logoColor=black"/>
           <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-      <br><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           
     </div>
