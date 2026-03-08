@@ -36,8 +36,3 @@
 <br>
     <div align= "center">  </div> 
     </div>
-    
-    
-
-
-여기에 넣어줘
